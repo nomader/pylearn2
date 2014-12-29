@@ -1,0 +1,4 @@
+!obj:pylearn2.scripts.vv_dataset.vv_gen.VVGen 
+{
+    which_set: 'public_test'
+}

@@ -1,0 +1,4 @@
+!obj:pylearn2.scripts.vv_dataset.vv_age17.VVAge17 
+{
+    which_set: 'train'
+}

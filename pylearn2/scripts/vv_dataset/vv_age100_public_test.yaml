@@ -1,0 +1,4 @@
+!obj:pylearn2.scripts.vv_dataset.vv_age100.VVEmo100 
+{
+    which_set: 'public_test'
+}

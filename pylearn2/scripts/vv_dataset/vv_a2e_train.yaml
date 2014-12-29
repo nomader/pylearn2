@@ -1,0 +1,4 @@
+!obj:pylearn2.scripts.vv_dataset.vv_a2e.VVA2e 
+{
+    which_set: 'train'
+}
